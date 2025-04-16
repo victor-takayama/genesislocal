@@ -1,1 +1,0 @@
-// Google Tag Manager e Pixel Meta aqui
