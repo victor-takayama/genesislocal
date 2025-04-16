@@ -1,3 +1,3 @@
-# Gênesis Local - Landing Page
+# Gênesis Local V2
 
-Landing page criada com React e Tailwind CSS.
+Landing page com visual aprimorado e CTA direto para Tally.so
