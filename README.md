@@ -1,3 +1,3 @@
-# Gênesis Local V2
+# Gênesis Local V3
 
-Landing page com visual aprimorado e CTA direto para Tally.so
+Versão final com visual moderno + seções persuasivas + botão direto para Tally.so
