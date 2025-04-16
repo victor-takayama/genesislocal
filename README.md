@@ -1,3 +1,3 @@
-# Gênesis Local
+# Gênesis Local - Landing Page
 
-Landing Page feita em Next.js com TailwindCSS para alta conversão.
+Landing page criada com React e Tailwind CSS.
